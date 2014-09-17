@@ -1,12 +1,4 @@
-POLYSAT is a collection of tools to handle microsatellite data of any ploidy 
-(and samples of mixed ploidy) where allele copy number is not known in partially heterozygous genotypes. 
-It can import and export data in ABI GeneMapper, Structure, ATetra, Tetrasat/Tetra, GenoDive, SPAGeDi, POPDIST,
-STRand, and binary presence/absence formats. It can calculate pairwise distances between individuals using a 
-stepwise mutation model or infinite alleles model, with or without taking ploidies and allele frequencies 
-into account. These distances can be used for the calculation of clonal diversity statistics or used for 
-further analysis in R. Allelic diversity statistics are also available. polysat can assist the user in 
-estimating the ploidy of samples, and lastly it can estimate allele frequencies in populations, calculate 
-pairwise Fst values based on those frequencies, and export allele frequencies to SPAGeDi and adegenet.
+polysat is a collection of tools to handle microsatellite data of any ploidy (and samples of mixed ploidy) where allele copy number is not known in partially heterozygous genotypes. It can import and export data in ABI GeneMapper, Structure, ATetra, Tetrasat/Tetra, GenoDive, SPAGeDi, POPDIST, STRand, and binary presence/absence formats. It can calculate pairwise distances between individuals using a stepwise mutation model or infinite alleles model, with or without taking ploidies and allele frequencies into account. These distances can be used for the calculation of clonal diversity statistics or used for further analysis in R. Allelic diversity statistics are also available. polysat can assist the user in estimating the ploidy of samples, and lastly it can estimate allele frequencies in populations, calculate pairwise Fst values based on those frequencies, and export allele frequencies to SPAGeDi and adegenet.
 
 http://cran.r-project.org/web/packages/polysat/index.html
 
