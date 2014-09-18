@@ -1,4 +1,4 @@
-#Create a normal distribution histogram of a vector 
+#Create a normal distribution histogram of a vector; "Distribution of error" == TRUE or FALSE
 
 minorpopulation.csv ==
 
